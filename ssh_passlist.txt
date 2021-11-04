@@ -1,0 +1,5 @@
+vmware
+wanscaler
+welcome1
+admin
+password
